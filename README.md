@@ -12,7 +12,6 @@ At minimum you will need to have node installed.
 git clone https://github.com/pinhorox/palindrome_test.git
 ```
 
-This will run the server with the default port of 3000.
 
 ## Development Environment
 ## 1. Install packages
